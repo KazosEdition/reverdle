@@ -28,7 +28,7 @@
   <p align="center">
     Reverdle has moved to github.com/metabole/reverdle
     <br />
-    <a href="https://metabole.ga/reverdle"><strong>See Live Version »</strong></a>
+    <a href="https://github.com/metabole/reverdle"><strong>Go There »</strong></a>
     <br />
     <br />
 </div>
